@@ -17,7 +17,7 @@ Other packages that are used:
 pip install numpy seaborn matplotlib
 ```
 
-Clone this reinforcement learning repository: `git clone https://github.com/wingillis/reinforcement-learning.git`. Make note of the location you saved this repository, because you will use this location in our notebooks.
+Clone this reinforcement learning repository: `git clone https://github.com/DrugowitschLab/ML-from-scratch-seminar.git`. Make note of the location you saved this repository, because you will use this location in our notebooks.
 
 
 ## This session's topics
